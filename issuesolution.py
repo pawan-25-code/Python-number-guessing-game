@@ -18,11 +18,9 @@ def play_game():
     
     while True:
         user_input = input("GUESS THE TARGET OR QUIT(Q): ")
-        
         if user_input.upper() == "Q":
             print("Game exited.")
             break
-            
         try:
             user_choice = int(user_input)
         except ValueError:
