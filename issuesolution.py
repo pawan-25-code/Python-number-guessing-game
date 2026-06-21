@@ -39,8 +39,10 @@ def play_game():
             print(f"YOU SUCCESSFULLY GUESS THE TARGET!!")
             print(f"Attempts: {attempts}, Your Score: {score}")
             break
+            
         elif user_choice < target:
             print("YOUR NUMBER IS LOWER, TAKE A BIGGER NUMBER!!")
+            
         else:
             print("YOUR NUMBER IS BIGGER, TAKE A SMALLER NUMBER!!")
 
