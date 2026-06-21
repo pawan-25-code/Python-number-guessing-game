@@ -45,4 +45,5 @@ def play_game():
             print("YOUR NUMBER IS BIGGER, TAKE A SMALLER NUMBER!!")
 
     print("__GAME OVER__")
+    
 play_game()
