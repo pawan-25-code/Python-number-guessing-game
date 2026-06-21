@@ -9,6 +9,7 @@ while True:
     
     if user_choice.upper() == "Q":
         break
+        
     user_choice = int(user_choice)
     
     if user_choice == target:
