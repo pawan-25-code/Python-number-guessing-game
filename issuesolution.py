@@ -1,3 +1,4 @@
+"""number guessing game with score"""
 import random
 
 def play_game():
