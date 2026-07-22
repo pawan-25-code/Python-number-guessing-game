@@ -3,7 +3,7 @@ It is my first project and repository in git hub created by python.This project 
 # Python-number-guessing-game
 Built a classic Number Guessing Game in Python for my mini-project!  Can you outsmart the random number generator, or will it be GAME OVER?
 # random Library 
-<h> In this code,use <I>random </I> Library of python for generating random number by the system.</h>
+<strong> In this code,use</strong> <I>random </I> <strong> library of python for generating random number by the system.</strong>
 
 # Loops 
 <h> while </h> loop are use in this project 
